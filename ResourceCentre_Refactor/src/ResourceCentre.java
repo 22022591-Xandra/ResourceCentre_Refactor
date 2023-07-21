@@ -135,7 +135,7 @@ public class ResourceCentre {
 		}
 		return avail;
 	}
-
+//test
 	//================================= Option 1 View (CRUD - Read) =================================
 	public static String retrieveAllCamcorder(ArrayList<Camcorder> camcorderList) {
 		String output = "";
